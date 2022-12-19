@@ -26,6 +26,7 @@ class ThemeManger {
       toolbarHeight: AppSize.s50,
     ),
 
+    dividerColor: Colors.transparent,
     cardTheme: CardTheme(
         color: ColorManger.white,
         margin: const EdgeInsets.all(AppMargin.m8),

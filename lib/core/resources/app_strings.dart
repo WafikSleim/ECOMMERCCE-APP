@@ -13,4 +13,6 @@ class AppStrings {
   static const String quantity = "QUANTITY";
   static const String productDetails = "Product Details";
   static const String shippingAndReturns = "Shipping & Returns";
+  static const String youMayAlsoLike = "You May Also Like";
+  static const String yourCart = "Your Cart";
 }
